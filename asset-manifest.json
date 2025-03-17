@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/birthday_wish_repo/static/css/main.5d5e9974.css",
-    "main.js": "/birthday_wish_repo/static/js/main.c1ecbd3b.js",
+    "main.js": "/birthday_wish_repo/static/js/main.e50d1b82.js",
     "static/js/453.835c57e2.chunk.js": "/birthday_wish_repo/static/js/453.835c57e2.chunk.js",
+    "static/media/namita_new.jpg": "/birthday_wish_repo/static/media/namita_new.38e08f0c9ee7bf6df4e9.jpg",
     "index.html": "/birthday_wish_repo/index.html",
     "main.5d5e9974.css.map": "/birthday_wish_repo/static/css/main.5d5e9974.css.map",
-    "main.c1ecbd3b.js.map": "/birthday_wish_repo/static/js/main.c1ecbd3b.js.map",
+    "main.e50d1b82.js.map": "/birthday_wish_repo/static/js/main.e50d1b82.js.map",
     "453.835c57e2.chunk.js.map": "/birthday_wish_repo/static/js/453.835c57e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d5e9974.css",
-    "static/js/main.c1ecbd3b.js"
+    "static/js/main.e50d1b82.js"
   ]
 }
