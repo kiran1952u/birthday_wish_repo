@@ -2,7 +2,7 @@
   "name": "birthday-wishes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/birthday-wishes",
+  "homepage": "https://kiran1952u.github.io/birthday-wishes",
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
     "@testing-library/dom": "^10.4.0",
